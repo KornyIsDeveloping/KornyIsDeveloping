@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kornuletz, junior game and web developer
 - 👀 I’m interested in games, game development and tech
 - 🌱 I’m currently learning web development and game development
-- 📫 How to reach me: kornyisdeveloping@gmail.com
+- 📫 How to reach me: g.rux98@gmail.com
 <!--- - ⚡ Fun fact: 
 
 <!---
